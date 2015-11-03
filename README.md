@@ -1,6 +1,6 @@
 # Lebenslauf
 
-__Vorname:__ Ich>>>>>>>>>>>![Kein Bild](/home/steffen/GitProjekt/Einkaufsliste"Kein Bild")
+__Vorname:__ Ich>>>>>>>>>>>![Kein Bild](Kein_Bild.png)
 
 __Nachname:__ Wars
 
