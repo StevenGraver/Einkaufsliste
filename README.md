@@ -1,6 +1,6 @@
 # Lebenslauf
 
-__Vorname:__ Ich>>>>>>>>>>>![Kein Bild](Kein_Bild.png)
+__Vorname:__ Ich>>>>>>>>>>>
 
 __Nachname:__ Wars
 
