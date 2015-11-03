@@ -1,0 +1,13 @@
+Einkaufsliste
+
+ein bisschen Roastbeef
+ein hühnchen
+ne Pizza
+
+ein bisschen Roastbeef
+ein Hühnchen 
+ne Pizza
+
+ein bischen Roastbeef
+ein Hühnchen
+ne Pizza
